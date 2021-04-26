@@ -1,0 +1,13 @@
+{
+	"name": "fpsunlocker",
+	"title": "FPS Unlcoker",
+	"description": "Unlocks fps in foundry for high refresh rate monitors",
+	"version": "1.0.0",
+	"author": "KiD Fearless",
+	"minimumCoreVersion": "0.7.9",
+	"compatibleCoreVersion": "0.7.9",
+	"scripts": [
+		"dist/FPSUnlocker.js"
+	]
+
+}
